@@ -48,7 +48,7 @@ This project showcases an interactive **Power BI dashboard** designed to **track
 
 1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/yourusername/interactive-sales-dashboard
+   git clone https://github.com/manishtanwarr/Interactive-Dashboard-Using-Power-BI
    ```
 2. **Set Up Your Data**:
    - Replace the sample dataset with your own sales data (ensure it matches the required schema).
